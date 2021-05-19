@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  whoami:
+  - apiVersion: v2
+    appVersion: 1.5.0
+    created: "2021-05-19T23:44:37.361836+03:00"
+    description: Tiny Go webserver that prints os information and HTTP request to output
+    digest: 1e264e628eb3393e4a1f3c190445867b4ca41fc4f7ef286c71a29c2acf4a47da
+    home: https://github.com/containous/whoami
+    maintainers:
+    - email: sebastien.prudhomme@gmail.com
+      name: sebastien-prudhomme
+    name: whoami
+    urls:
+    - whoami-2.2.0.tgz
+    version: 2.2.0
+generated: "2021-05-19T23:44:37.357047+03:00"
